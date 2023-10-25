@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.all_in_one">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.BLUETOOTH" />
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.All_In_One">
+        <activity
+            android:name=".QuizResultPage"
+            android:exported="true" />
+        <activity
+            android:name=".QuizQuestion3"
+            android:exported="true" />
+        <activity
+            android:name=".QuizQuestion2"
+            android:exported="true" />
+        <activity
+            android:name=".QuizQuestion1"
+            android:exported="true" />
+        <activity
+            android:name=".QuizPage"
+            android:exported="true" />
+        <activity
+            android:name=".BrowserPage"
+            android:exported="true" />
+        <activity
+            android:name=".VideoCamera"
+            android:exported="true" />
+        <activity
+            android:name=".Camera"
+            android:exported="true" />
+        <activity
+            android:name=".CameraMenu"
+            android:exported="true" />
+        <activity
+            android:name=".CalcWithTTT"
+            android:exported="true" />
+        <activity
+            android:name=".SimpleCalc"
+            android:exported="true" />
+        <activity
+            android:name=".CalculatorMenu"
+            android:exported="true" />
+        <activity
+            android:name=".MP4Player"
+            android:exported="true" />
+        <activity
+            android:name=".MP3Player"
+            android:exported="true" />
+        <activity
+            android:name=".MediaPage"
+            android:exported="true" />
+        <activity android:name=".AccelerometerFlash" />
+        <activity android:name=".AccelerometerWifi" />
+        <activity android:name=".AccelerometerBluetooth" />
+        <activity android:name=".AccelerometerPage" />
+        <activity android:name=".ProximityFlash" />
+        <activity android:name=".ProximityWifi" />
+        <activity android:name=".ProximityBluetooth" />
+        <activity android:name=".ProximityPage" />
+        <activity android:name=".SensorPage" />
+        <activity android:name=".HomePage" />
+        <activity android:name=".OTP_Login_Page_2" />
+        <activity android:name=".OTP_Login_Page" />
+        <activity android:name=".GmailLoginPage" />
+        <activity android:name=".EmailSignUpPage" />
+        <activity android:name=".EmailLoginPage" />
+        <activity android:name=".DatabasePage" />
+        <activity android:name=".OfflineSignUpPage" />
+        <activity android:name=".OfflineLoginPage" />
+        <activity android:name=".LoginMenu" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

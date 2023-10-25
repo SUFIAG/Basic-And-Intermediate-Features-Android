@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable/custom_button.xml" value="0.37552083333333336" />
+        <entry key="app/src/main/res/layout/activity_accelerometer_bluetooth.xml" value="0.35989583333333336" />
+        <entry key="app/src/main/res/layout/activity_accelerometer_flash.xml" value="0.35989583333333336" />
+        <entry key="app/src/main/res/layout/activity_accelerometer_page.xml" value="0.35989583333333336" />
+        <entry key="app/src/main/res/layout/activity_accelerometer_wifi.xml" value="0.35989583333333336" />
+        <entry key="app/src/main/res/layout/activity_browser_page.xml" value="0.35688405797101447" />
+        <entry key="app/src/main/res/layout/activity_calc_with_ttt.xml" value="0.35733695652173914" />
+        <entry key="app/src/main/res/layout/activity_calculator_menu.xml" value="0.34427083333333336" />
+        <entry key="app/src/main/res/layout/activity_camera.xml" value="0.35989583333333336" />
+        <entry key="app/src/main/res/layout/activity_camera_menu.xml" value="0.35643115942028986" />
+        <entry key="app/src/main/res/layout/activity_database_page.xml" value="0.35989583333333336" />
+        <entry key="app/src/main/res/layout/activity_email_login_page.xml" value="0.35989583333333336" />
+        <entry key="app/src/main/res/layout/activity_email_sign_up_page.xml" value="0.23097826086956522" />
+        <entry key="app/src/main/res/layout/activity_gmail_login_page.xml" value="0.35989583333333336" />
+        <entry key="app/src/main/res/layout/activity_home_page.xml" value="0.359375" />
+        <entry key="app/src/main/res/layout/activity_login_menu.xml" value="0.23097826086956522" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_media_page.xml" value="0.35989583333333336" />
+        <entry key="app/src/main/res/layout/activity_mp3_player.xml" value="0.35989583333333336" />
+        <entry key="app/src/main/res/layout/activity_mp4_player.xml" value="0.35989583333333336" />
+        <entry key="app/src/main/res/layout/activity_offline_login_page.xml" value="0.35989583333333336" />
+        <entry key="app/src/main/res/layout/activity_otp_login_page.xml" value="0.35989583333333336" />
+        <entry key="app/src/main/res/layout/activity_otp_login_page2.xml" value="0.35989583333333336" />
+        <entry key="app/src/main/res/layout/activity_proximity_flash.xml" value="0.35989583333333336" />
+        <entry key="app/src/main/res/layout/activity_proximity_page.xml" value="0.35989583333333336" />
+        <entry key="app/src/main/res/layout/activity_quiz_page.xml" value="0.358695652173913" />
+        <entry key="app/src/main/res/layout/activity_quiz_question1.xml" value="0.35989583333333336" />
+        <entry key="app/src/main/res/layout/activity_quiz_question2.xml" value="0.35989583333333336" />
+        <entry key="app/src/main/res/layout/activity_quiz_question3.xml" value="0.35989583333333336" />
+        <entry key="app/src/main/res/layout/activity_quiz_result_page.xml" value="0.35989583333333336" />
+        <entry key="app/src/main/res/layout/activity_sensor_page.xml" value="0.3491847826086957" />
+        <entry key="app/src/main/res/layout/activity_simple_calc.xml" value="0.35989583333333336" />
+        <entry key="app/src/main/res/layout/activity_video_camera.xml" value="0.35989583333333336" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_15_PREVIEW" project-jdk-name="15" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
